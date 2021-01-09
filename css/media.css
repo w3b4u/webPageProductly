@@ -115,6 +115,7 @@
         margin-right: 0;
         text-align: center;
         padding-top: 30px;
+        height: 90px;
     }
     .menu__list-item + .menu__list-item{
         margin-left: 0;
